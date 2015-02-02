@@ -106,3 +106,59 @@ table {
 .app-type li a:hover {
     color: #333333;
 }
+
+.appname-slider {    
+    margin-top: 30px;
+}
+
+.app-details {
+    padding-left: 0px;
+    padding-right: 0px;
+    font-weight: bold;
+}
+
+.publisher, .developer, .idea-by {
+    margin-bottom: 10px;
+}
+
+.name, .date {
+    width: 50px;
+    height: 15px;    
+    line-height: 0px;
+    font-weight: normal;
+}
+
+.arrows-btn {
+    width: 30px;
+    height: 15px;
+    padding: 0px;
+    line-height: 0px;
+}
+
+.arrows {
+    width: 22px;
+    height: 15px;
+    line-height: 0px;
+    padding: 0px 3px;
+}
+
+.g-play-btn, .g-play-btn i {
+    border-radius: 0px;
+    background-color: #21c10c;
+    color: #000000;
+}
+
+
+.site-btn {
+    background-color: #428bca;
+    color: #000000;
+    border-radius: 0px;
+}
+
+.slider {
+    height: 430px;
+    background-color: #636363;
+    border-bottom: 3px solid #ff0000;
+}
+
+
