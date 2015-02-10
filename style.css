@@ -117,7 +117,7 @@ table {
     font-weight: bold;
 }
 
-.publisher, .developer, .idea-by {
+.publisher, .developer, .idea-by, .release-date {
     margin-bottom: 10px;
 }
 
@@ -155,10 +155,198 @@ table {
     border-radius: 0px;
 }
 
+.f-apps {
+    font-size: 24px;
+    padding-top: 5px;
+}
+
+.app-preview {
+    height: 152px;
+    border-bottom: 3px solid #ff0000;
+    background-color: #aaa;
+    margin-top: 10px;
+}
+
+.star {
+    color: #ece71b;
+}
+
+.android {
+    color: #19853a;
+}
+
+.windows {
+    color: #32b8de;
+}
+
+.apple {
+    color: #000000;
+}
+
+.s-apps {
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+.load-more {
+    margin-top: 15px;
+}
+
+.load {
+    color: #000000;
+    background-color: #FFFFFF;
+    border: 2px solid #999999;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.pro-pre {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.promo {
+    padding: 0px 10px;
+    border-bottom: 3px solid #ff0000;
+}
+
+.preview {
+    padding: 0px 10px;
+    border-bottom: 3px solid #f1caca;
+    color: #7a7777;
+}
+
 .slider {
     height: 430px;
     background-color: #636363;
     border-bottom: 3px solid #ff0000;
 }
 
+.slider h1 {
+    font-size: 40px;
+    font-family: arial;
+    text-align: center;
+    padding: 190px 0;
+}
+
+.content {
+    margin-top: 10px;
+}
+
+.rating-point {
+    width: 75px;
+    height: 75px;
+    font-weight: bold;
+    font-size: 24px;
+    background-image: url('images/rating-star.png');
+    background-repeat: no-repeat;
+}
+
+.point {
+    line-height: 75px;
+    margin: 22px;
+}
+
+.your-rating {
+    height: 75px;
+    color: #646161;
+}
+
+.all-starts span {
+    padding: 1px 0px;
+    
+}
+
+.rat {
+    font-weight: bold;
+}
+
+.users {
+    color: #1d7ec9;
+}
+
+.total-views {
+    font-size: 28px;
+    line-height: 75px;
+}
+
+.share-write {
+    margin-bottom: 20px;
+}
+
+.share-review {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.share a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.write-review {
+    border-bottom: 2px solid #ff0000;
+}
+
+.app-desc {
+    width: 100%;
+    font-size: 17px;
+}
+
+.all-reviews {
+    width: 100%;
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.review {
+    width: 868px;
+    height: 145px;
+    border: 1px solid #dedede;
+    margin: 20px 0px 10px;
+}
+
+.title-content {
+    width: 768px;
+    height: 145px;
+}
+
+.title-content h2 {
+    font-size: 24px;
+    padding: 5px 0;
+    font-weight: bold;
+    font-family: arial;
+}
+
+.review-content {
+    margin-top: 5px;
+}
+
+.review-rating-like {
+    
+}
+
+.review-rating {
+    font-weight: bold;
+    font-size: 24px;
+    background-image: url('images/rating-star.png');
+    background-repeat: no-repeat;
+}
+
+.point1 {
+}
+
+.like-btn, .unlike-btn {
+    
+}
+
+.load-more2 {
+    width: 170px;
+    height: 40px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    border: 1px solid #999999;
+    cursor: pointer;
+    font-weight: bold;
+}
 
